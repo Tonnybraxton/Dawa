@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Local environment configuration and runtime data
+.env
+.env.*
+!.env.example
+server/dawatrack.db
+*.sqlite
+*.sqlite3
+
+# Local editor configuration
+.kilo/
+.kilocode/
+
+# Logs
+*.log
