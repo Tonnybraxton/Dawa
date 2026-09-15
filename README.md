@@ -2,6 +2,21 @@
 
 Dawa Track is a full-stack medication and prescription-management platform. It gives patients, doctors, pharmacists, caregivers, and administrators role-specific tools for managing prescriptions, medication reminders, pharmacy services, and medicine information.
 
+## Screenshots
+
+Screenshots captured during local development:
+
+![Dawa Track application screenshot](Screenshot%202026-08-16%20233359.png)
+
+<details>
+<summary>More application screens</summary>
+
+![Dawa Track application view](Screenshot%202026-08-16%20233534.png)
+
+![Dawa Track application view](Screenshot%202026-08-16%20233626.png)
+
+</details>
+
 ## What it does
 
 - **Patients** can view prescriptions, set medication reminders, check possible drug interactions, find pharmacies, and manage their health profile.
@@ -90,6 +105,10 @@ Authorization: Bearer <token>
 
 This repository is a development project. Review authentication, data protection, validation, error handling, infrastructure, and regulatory requirements before using it with real healthcare data or in a production environment.
 
+## Contributing
+
+Describe the affected role and the steps to reproduce an issue. Use fictional patient information in examples and screenshots. Include the checks you ran with a pull request.
+
 ## License
 
-No license has been specified yet. Add a license before distributing or reusing this project publicly.
+No project license file is currently included.
